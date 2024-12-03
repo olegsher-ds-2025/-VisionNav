@@ -6,9 +6,9 @@
 > Linux tegra-ubuntu 4.4.38-tegra #2 SMP PREEMPT Fri Sep 21 13:58:04 CDT 2018 aarch64 aarch64 aarch64 GNU/Linux
 
 ### How to connect
-...
+```
 ssh -X nvidia@81.199.124.218 -p 64222 passwd: nvidia
-...
+```
 
 
 
