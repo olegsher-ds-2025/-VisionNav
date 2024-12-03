@@ -1,5 +1,9 @@
 # Project info
 
+> Link to Jira board (https://visionnav.atlassian.net/jira/software/c/projects/VIS/boards/1/timeline)
+
+> Link to Google drive (https://drive.google.com/drive/folders/1Nof7Ir2r33FDJ4FhxQjCpKB10esKr0xH)
+
 ## Jetson info
 > R28 (release), REVISION: 2.1, GCID: 11272647, BOARD: t186ref, EABI: aarch64, DATE: Thu May 17 07:29:06 UTC 2018
 
