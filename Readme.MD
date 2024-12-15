@@ -27,6 +27,8 @@ TEGRA_OTA_GPT_DEVICE	/dev/mmcblk0boot1
 TNSPEC 3310-B01-fuselevel_production
 ```
 
+<strong>Board ID 3310 is associated with the Jetson TX2</strong>
+
 ### How to connect
 ```
 ssh -X nvidia@81.199.124.218 -p 64222 passwd: nvidia
