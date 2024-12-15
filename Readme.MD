@@ -27,6 +27,10 @@ TEGRA_OTA_GPT_DEVICE	/dev/mmcblk0boot1
 TNSPEC 3310-B01-fuselevel_production
 ```
 
+GCID: 11272647 and BOARD: t186ref indicate that the board is part of the NVIDIA Jetson TX2 family.
+t186ref specifically refers to the Jetson TX2 platform, as it is based on the Tegra X2 (Parker) SoC.
+The date and revision suggest an older L4T version (R28.2.1), which aligns with Jetson TX2 support during that time.
+
 <strong>Board ID 3310 is associated with the Jetson TX2</strong>
 
 ### How to connect
