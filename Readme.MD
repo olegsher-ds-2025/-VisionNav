@@ -20,6 +20,12 @@ Jun 26 201814:03:53
 sudo cat /proc/device-tree/nvidia,boardids
 3310:0000:C03
 ```
+```
+nvidia@tegra-ubuntu:~$ sudo cat /etc/nv_boot_control.conf
+TEGRA_OTA_BOOT_DEVICE	/dev/mmcblk0boot0
+TEGRA_OTA_GPT_DEVICE	/dev/mmcblk0boot1
+TNSPEC 3310-B01-fuselevel_production
+```
 
 ### How to connect
 ```
