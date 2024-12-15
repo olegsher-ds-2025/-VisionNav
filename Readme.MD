@@ -10,16 +10,16 @@
 > Elroy Carrier for NVIDIA® Jetson™ TX2/TX2i (https://connecttech.com/product/asg002-elroy-carrier-for-nvidia-jetson-tx2-tx1/)
 
 > Linux tegra-ubuntu 4.4.38-tegra #2 SMP PREEMPT Fri Sep 21 13:58:04 CDT 2018 aarch64 aarch64 aarch64 GNU/Linux
-
-nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,proc-boardid
+```
+sudo cat /proc/device-tree/nvidia,proc-boardid
 3310:0000:C03
-nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,dtsfilename
+sudo cat /proc/device-tree/nvidia,dtsfilename
 tegra186-tx2-cti-ASG002-mPCIe.dts
-nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,dtbbuildtime
+sudo cat /proc/device-tree/nvidia,dtbbuildtime
 Jun 26 201814:03:53
-nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,boardids
+sudo cat /proc/device-tree/nvidia,boardids
 3310:0000:C03
-nvidia@tegra-ubuntu:~$
+```
 
 ### How to connect
 ```
