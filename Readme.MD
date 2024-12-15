@@ -11,6 +11,16 @@
 
 > Linux tegra-ubuntu 4.4.38-tegra #2 SMP PREEMPT Fri Sep 21 13:58:04 CDT 2018 aarch64 aarch64 aarch64 GNU/Linux
 
+nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,proc-boardid
+3310:0000:C03
+nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,dtsfilename
+tegra186-tx2-cti-ASG002-mPCIe.dts
+nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,dtbbuildtime
+Jun 26 201814:03:53
+nvidia@tegra-ubuntu:~$ sudo cat /proc/device-tree/nvidia,boardids
+3310:0000:C03
+nvidia@tegra-ubuntu:~$
+
 ### How to connect
 ```
 ssh -X nvidia@81.199.124.218 -p 64222 passwd: nvidia
