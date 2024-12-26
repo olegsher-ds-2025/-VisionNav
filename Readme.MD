@@ -5,6 +5,12 @@
 > Link to Google drive (https://drive.google.com/drive/folders/1Nof7Ir2r33FDJ4FhxQjCpKB10esKr0xH)
 
 ## Jetson info
+> [EN715-R1.0.20.4.6](https://www.avermedia.com/professional/product-detail/EN715#download) - will try top update to latest version
+
+
+
+
+## Obsolete - Jetson info
 > R28 (release), REVISION: 2.1, GCID: 11272647, BOARD: t186ref, EABI: aarch64, DATE: Thu May 17 07:29:06 UTC 2018 [doc](https://developer.download.nvidia.com/embedded/L4T/r28_Release_v2.1/Tegra_Linux_Driver_Package_Release_Notes_R28.2.1.pdf)
 
 > Elroy Carrier for NVIDIA® Jetson™ TX2/TX2i (https://connecttech.com/product/asg002-elroy-carrier-for-nvidia-jetson-tx2-tx1/)
