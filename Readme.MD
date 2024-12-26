@@ -6,6 +6,7 @@
 
 ## Jetson info
 > [EN715-R1.0.20.4.6](https://www.avermedia.com/professional/product-detail/EN715#download) - will try top update to latest version
+[Delivery](jetsons.pdf)
 
 
 
