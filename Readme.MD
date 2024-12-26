@@ -5,8 +5,9 @@
 > Link to Google drive (https://drive.google.com/drive/folders/1Nof7Ir2r33FDJ4FhxQjCpKB10esKr0xH)
 
 ## Jetson info
-> [EN715-R1.0.20.4.6](https://www.avermedia.com/professional/product-detail/EN715#download) - will try top update to latest version
-> [Delivery document from ThirdEye](jetsons.pdf) from Yoel Motola CTO•Third Eye Systems Ltd yoel.motola@gmail.com +972526662075
+> [EN715-R1.0.20.4.6](https://www.avermedia.com/professional/product-detail/EN715#download) - will try to update to latest version
+
+> [Delivery document from ThirdEye](jetsons.pdf) from Yoel Motola (CTO•Third Eye Systems Ltd yoel.motola@gmail.com +972526662075)
 
 
 
