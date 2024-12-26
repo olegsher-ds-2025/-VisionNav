@@ -18,6 +18,9 @@
 > Elroy Carrier for NVIDIA® Jetson™ TX2/TX2i (https://connecttech.com/product/asg002-elroy-carrier-for-nvidia-jetson-tx2-tx1/)
 
 > Linux tegra-ubuntu 4.4.38-tegra #2 SMP PREEMPT Fri Sep 21 13:58:04 CDT 2018 aarch64 aarch64 aarch64 GNU/Linux
+
+> [Jetson Documentation](AVerMedia_UM_EN715_NO111B_NX211B_TN111B+20240221.pdf)
+
 ```
 sudo cat /proc/device-tree/nvidia,proc-boardid
 3310:0000:C03
